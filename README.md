@@ -1,5 +1,5 @@
 👋 Hi, 
-I’m Lucian Brooks a 'self-taught' front end web dev currently learning, JS, and React Native
+I’m Lucian Brooks a 'self-taught' front end web dev currently working with JavaScript, ReactJS and a bit of NodeJS.
 
 - Looking to colab with other React and NodeJS users to gain more experience.
 
