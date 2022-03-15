@@ -5,5 +5,6 @@ I’m Lucian Brooks a 'self-taught' front end web dev currently learning, JS, an
 
 
 Portfolio: https://lucianaiolos.github.io/lb-portfolio/
+
 Contact: LuxianAiolos@gmail.com
 
