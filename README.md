@@ -3,5 +3,7 @@ I’m Lucian Brooks a 'self-taught' front end web dev currently learning, JS, an
 
 - Looking to colab with other React and NodeJS users to gain more experience.
 
+
+Portfolio: https://lucianaiolos.github.io/lb-portfolio/
 Contact: LuxianAiolos@gmail.com
 
