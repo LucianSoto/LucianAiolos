@@ -1,7 +1,7 @@
 👋 Hi, 
 I’m Lucian Brooks a front-end web dev currently working with JavaScript, ReactJS and a bit of NodeJS.
 
-- Looking to collab with other React and NodeJS users to gain more experience.
+- Looking to collab with other developers users to gain more experience.
 
 
 Portfolio: https://lucianaiolos.github.io/lb-portfolio/
