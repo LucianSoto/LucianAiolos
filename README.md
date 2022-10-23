@@ -4,7 +4,7 @@ I’m Lucian Brooks a front-end web dev currently working with JavaScript, React
 - Looking to collab with other developers users to gain more experience.
 
 
-Portfolio: https://lucianaiolos.github.io/lb-portfolio/
+Portfolio: www.lucianbrooks.com
 
 Contact: LuxianAiolos@gmail.com
 
