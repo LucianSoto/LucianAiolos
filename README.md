@@ -1,8 +1,7 @@
 👋 Hi, 
-I’m Lucian Brooks a front-end web dev currently working with JavaScript, ReactJS and a bit of NodeJS.
+I’m Lucian Brooks a MERN Stack Developer currently working with ReactJS, NodeJS, and MongoDB
 
-- Looking to collab with other developers users to gain more experience.
-
+- I design, build and deploy websites for small businesses but am currently looking for employment in a suitable team.
 
 Portfolio: www.lucianbrooks.com
 
