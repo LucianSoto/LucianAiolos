@@ -1,7 +1,5 @@
 👋 Hi, 
-I’m Lucian Brooks a Full-Stack Developer currently working with React, NodeJS, Express, MongoDB, Firebase, and SQL
-
-- I design, build and deploy websites for small businesses but am currently looking for employment in a suitable team.
+I’m Lucian Brooks a Full Stack Developer currently working with React, NodeJS, Express, MongoDB, Firebase, and SQL
 
 Portfolio: www.lucianbrooks.com
 
